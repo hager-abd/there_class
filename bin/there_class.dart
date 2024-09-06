@@ -12,6 +12,6 @@ void main(){
   t1.eat();
   t1.teach();
   s1.study();
-  s1.setId(3);
+  s1.setId=3;
   print(s1.getId);
 }

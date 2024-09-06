@@ -1,4 +1,4 @@
- class human{
+abstract class human{
 
   int _id;
   int? age;
